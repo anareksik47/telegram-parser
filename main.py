@@ -6,7 +6,7 @@ import sys
 import time
 
 import telethon
-from telethon import sync  # this module must be imported, although never used
+from telethon import sync  # this module must be imported, although never used | Well, Why? Mayby other function use it?
 from telethon.tl import functions, types
 
 
